@@ -89,6 +89,7 @@ public enum ActorOperations {
   ORG_CONSUMPTION_METRICS_REPORT("orgConsumptionMetricsReport"),
   EMAIL_SERVICE("emailService"),
   FILE_STORAGE_SERVICE("fileStorageService"),
+  SMS_SERVICE("smsService"),
   ADD_USER_BADGE_BKG("addUserBadgebackground"),
   FILE_GENERATION_AND_UPLOAD("fileGenerationAndUpload"),
   HEALTH_CHECK("healthCheck"),
